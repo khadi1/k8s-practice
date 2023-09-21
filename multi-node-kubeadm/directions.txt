@@ -1,0 +1,2 @@
+Description: Build a multi-node Kubernetes cluster using kubeadm or similar tools. Explore node networking, cluster scaling, and more advanced Kubernetes concepts.
+Prerequisites: In-depth Docker knowledge, solid Kubernetes foundation.
